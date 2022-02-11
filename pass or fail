@@ -1,0 +1,12 @@
+Sname=intput('enter student name:') 
+sno=input('enter student roll no:') 
+s1=int(input('enter maths marks')) 
+S2=int(input('enter chemistry marks')) 
+S3=int(input('enter computer marks')) 
+S4=int(input ('enter telugu marks')) 
+S5=int(input ('enter english marks')) 
+S6=int(input ('enter physics marks') ) 
+If s1>=35 and s2>=35 and s3>=35 and s4>=5 and s>=6
+   Print('paas) 
+ElseElse:
+   Print ('fail') 
